@@ -1,0 +1,16 @@
+.wrapper{
+    
+    
+}
+.line_div{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+.page_container{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+    
+}
